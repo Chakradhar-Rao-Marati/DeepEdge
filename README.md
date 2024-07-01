@@ -67,4 +67,4 @@ The performance of the custom resize function is also measured for 1000 iteratio
 ![Screenshot 2024-07-01 224451](https://github.com/Chakradhar-Rao-Marati/DeepEdge/assets/117653325/2f5587fa-4ce7-485c-ae2d-2719c457a7c2)
 
 # The time measure for 1000 iterations for custom resize functions
-![Screenshot 2024-07-01 224451](https://github.com/Chakradhar-Rao-Marati/DeepEdge/assets/117653325/255a3111-8489-4e80-9e6a-0a979a326589)
+![Screenshot 2024-07-01 224834](https://github.com/Chakradhar-Rao-Marati/DeepEdge/assets/117653325/089eec90-e171-49b9-a7fb-4c551b973c9c)
